@@ -1,0 +1,5 @@
+local monitor = peripheral.wrap("top")
+monitor.clear()
+term.clear()
+monitor.setCursorPos(1, 1)
+term.setCursorPos(1, 1)
